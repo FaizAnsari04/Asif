@@ -237,8 +237,16 @@ a.navbar-brand img {
 	position:relative;
 	top:9px;
 }
+.h3c
+{
+	color:white;
+	font-size: 30px;
+	font-weight: 500;
+	text-transform: capitalize;
+}
 #menu {
-	position:absolute;
+	position:absolute
+	color: white !important;
 }
 #menu .nav {
 	left: 25%;
